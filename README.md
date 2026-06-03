@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=M.%20Brillian%20Alif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20UI%20Enthusiast&descAlignY=58&descSize=18)
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+World!+I'm+Brillian+👋;Building+Apps+That+Matter+🚀;Mobile+%7C+Web+%7C+Backend+Developer)](https://git.io/typing-svg)
+<!-- GIF Banner -->
+![Banner](assets/gif.gif)
 
 <br/>
 
@@ -16,40 +13,6 @@
 [![Stars](https://img.shields.io/github/stars/BR1LL14N?label=Stars&style=for-the-badge&color=f6a623&logoColor=white)](https://github.com/BR1LL14N?tab=stars)
 
 </div>
-
----
-
-## 🙋‍♂️ About Me
-
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="60%" valign="top" style="border: none;">
-
-```yaml
-name:     "M. Brillian Alif"
-username: "BR1LL14N"
-role:     "Mobile & Full-Stack Developer"
-location: "Indonesia 🇮🇩"
-education:
-  - institution: "Institut Teknologi Adhi Tama Surabaya (ITATS)"
-    degree:       "Informatics Engineering"
-currently:
-  working_on:  "Mobile App with Flutter 📱"
-  learning:    "Cloud & Backend Architecture ☁️"
-  open_to:     "Collaborations & Interesting Projects 🤝"
-hobbies:
-  - "Coding ☕"
-  - "Exploring new tech 🔭"
-  - "Building cool stuff ⚡"
-fun_fact:  "I debug with console.log and I'm not ashamed 😄"
-```
-
-    </td>
-    <td width="40%" valign="middle" align="center" style="border: none;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/coding.gif" width="100%" alt="Anime Coding"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -85,44 +48,6 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BR1LL14N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=764ba2&icon_color=667eea&text_color=c9d1d9)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR1LL14N&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=764ba2&text_color=c9d1d9&border_radius=12&hide_border=false&langs_count=8)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BR1LL14N&theme=tokyonight&hide_border=false&background=1a1b27&ring=764ba2&fire=ff6b6b&currStreakLabel=764ba2&border_radius=12)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BR1LL14N&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&row=1)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BR1LL14N&theme=tokyo-night&bg_color=1a1b27&color=764ba2&line=667eea&point=ff6b6b&area=true&hide_border=false&radius=12)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -143,7 +68,7 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:brillianalif@gmail.com">
+<a href="mailto:brillianalif28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
