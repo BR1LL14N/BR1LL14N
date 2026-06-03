@@ -16,7 +16,7 @@
 
 ---
 
-## 👾 Siapa Gue?
+## Siapa Gue?
 
 <div align="center">
 
@@ -25,16 +25,16 @@
 ║                                                              ║
 ║   Halo! Gue Brillian, mahasiswa Teknik Informatika          ║
 ║   yang udah keracunan dunia coding sejak pertama kali       ║
-║   ngetik "Hello World" dan ngerasa jadi dewa 😂             ║
+║   ngetik "Hello World" dan ngerasa jadi dewa                ║
 ║                                                              ║
 ║   Saat ini lagi sibuk ngulik Flutter buat bikin app        ║
 ║   yang (semoga) berguna buat banyak orang. Gue percaya     ║
 ║   kalau kode yang bagus itu kayak seni — butuh rasa,       ║
-║   logika, dan secangkir kopi yang kuat ☕                   ║
+║   logika, dan secangkir kopi yang kuat                      ║
 ║                                                              ║
 ║   Fun fact: Gue debug lebih lama daripada nulis kode,      ║
-║   tapi tetep enjoy karena... itulah yang namanya           ║
-║   jadi developer sejati 🔥                                  ║
+║   tapi tetep enjoy karena itulah yang namanya               ║
+║   jadi developer sejati                                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -45,24 +45,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Lagi Ngapain Sekarang?
+### Lagi Ngapain Sekarang?
 ```
-📱  Ngulik Flutter & Dart
-🏫  Kuliah Semester 6 di ITATS
-☁️  Belajar Cloud Architecture
-🤝  Open buat kolaborasi project keren
+[*]  Ngulik Flutter & Dart
+[*]  Kuliah Semester 6 di ITATS
+[*]  Belajar Cloud Architecture
+[*]  Open buat kolaborasi project keren
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Fakta Random Tentang Gue
+### Fakta Random Tentang Gue
 ```
-🎮  Kadang main game, tapi malah
+[*]  Kadang main game, tapi malah
      kepengen bikin game-nya sendiri
-🌙  Coding paling produktif jam 11 malem
-🐛  Bug itu bukan musuh, tapi "challenge"
-📚  Lagi explore dunia mobile dev
+[*]  Coding paling produktif jam 11 malem
+[*]  Bug bukan musuh, tapi "challenge"
+[*]  Lagi explore dunia mobile dev
 ```
 
 </td>
@@ -71,27 +71,27 @@
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
-### 📱 Mobile Development
+### Mobile Development
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-### 🌐 Frontend & Web
+### Frontend & Web
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -103,7 +103,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -115,7 +115,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -141,18 +141,9 @@
 
 ---
 
-<div align="center">
-
-### 💡 Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
 <!-- Footer Wave -->
 ![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 <div align="center">
-  <sub>✨ Made with ❤️ by <a href="https://github.com/BR1LL14N">BR1LL14N</a> | Let's build something amazing together! ✨</sub>
+  <sub>Made with love by <a href="https://github.com/BR1LL14N">BR1LL14N</a> | Let's build something amazing together!</sub>
 </div>
