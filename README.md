@@ -5,6 +5,16 @@
 
 <br/>
 
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+<br/>
+
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=BR1LL14N&label=Profile+Views&color=764ba2&style=for-the-badge)
 &nbsp;
@@ -18,28 +28,25 @@
 
 ## Siapa Gue?
 
-<div align="center">
+Halo! Gue Brillian, mahasiswa Teknik Informatika yang udah keracunan dunia coding sejak pertama kali ngetik **"Hello World"** dan ngerasa langsung jadi dewa.
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   Halo! Gue Brillian, mahasiswa Teknik Informatika          ║
-║   yang udah keracunan dunia coding sejak pertama kali       ║
-║   ngetik "Hello World" dan ngerasa jadi dewa                ║
-║                                                              ║
-║   Saat ini lagi sibuk ngulik Flutter buat bikin app        ║
-║   yang (semoga) berguna buat banyak orang. Gue percaya     ║
-║   kalau kode yang bagus itu kayak seni — butuh rasa,       ║
-║   logika, dan secangkir kopi yang kuat                      ║
-║                                                              ║
-║   Fun fact: Gue debug lebih lama daripada nulis kode,      ║
-║   tapi tetep enjoy karena itulah yang namanya               ║
-║   jadi developer sejati                                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Saat ini gue lagi sibuk ngulik Flutter buat bikin aplikasi yang semoga aja bisa berguna buat banyak orang. Gue percaya kalau kode yang bagus itu kayak seni — butuh rasa, logika kuat, dan pastinya secangkir kopi hangat.
 
-</div>
+```yaml
+# system_info.yaml
+identity:
+  name: M. Brillian Alif
+  role: Mobile & Full-Stack Developer
+  status: Informatics Student @ ITATS (Semester 6)
+
+focus_areas:
+  - Mobile Application Development (Flutter & React Native)
+  - Backend Systems & Cloud Architecture
+
+philosophy:
+  motto: "Kode yang bagus itu kayak seni — butuh rasa, logika, dan kopi."
+  fact: "Gue debug lebih lama dari nulis kode, tapi tetep enjoy!"
+```
 
 <table width="100%">
 <tr>
@@ -107,18 +114,6 @@
 <img src="https://img.shields.io/badge/Claude-D4A37A?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
