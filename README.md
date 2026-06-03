@@ -21,6 +21,10 @@
 
 ## 🙋‍♂️ About Me
 
+<table border="0" width="100%">
+  <tr border="0">
+    <td width="60%" valign="top" style="border: none;">
+
 ```yaml
 name:     "M. Brillian Alif"
 username: "BR1LL14N"
@@ -39,6 +43,13 @@ hobbies:
   - "Building cool stuff ⚡"
 fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 ```
+
+    </td>
+    <td width="40%" valign="middle" align="center" style="border: none;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/assets/coding.gif" width="100%" alt="Anime Coding"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,6 +119,18 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BR1LL14N&theme=tokyo-night&bg_color=1a1b27&color=764ba2&line=667eea&point=ff6b6b&area=true&hide_border=false&radius=12)
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/BR1LL14N/BR1LL14N/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
