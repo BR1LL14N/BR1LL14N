@@ -1,25 +1,19 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=220&amp;section=header&amp;text=M.%20Brillian%20Alif&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20UI%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=M.%20Brillian%20Alif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Full-Stack%20Developer%20%7C%20UI%20Enthusiast&descAlignY=58&descSize=18)
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=764BA2&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=600&amp;height=80&amp;lines=Hello+World!+I'm+Brillian+👋;Building+Apps+That+Matter+🚀;Mobile+%7C+Web+%7C+Backend+Developer" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+World!+I'm+Brillian+👋;Building+Apps+That+Matter+🚀;Mobile+%7C+Web+%7C+Backend+Developer)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=BR1LL14N&amp;label=Profile+Views&amp;color=764ba2&amp;style=for-the-badge" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=BR1LL14N&label=Profile+Views&color=764ba2&style=for-the-badge)
 &nbsp;
-<a href="https://github.com/BR1LL14N?tab=followers">
-  <img src="https://img.shields.io/github/followers/BR1LL14N?label=Followers&amp;style=for-the-badge&amp;color=667eea&amp;logoColor=white" />
-</a>
+[![Followers](https://img.shields.io/github/followers/BR1LL14N?label=Followers&style=for-the-badge&color=667eea&logoColor=white)](https://github.com/BR1LL14N?tab=followers)
 &nbsp;
-<a href="https://github.com/BR1LL14N?tab=stars">
-  <img src="https://img.shields.io/github/stars/BR1LL14N?label=Stars&amp;style=for-the-badge&amp;color=f6a623&amp;logoColor=white" />
-</a>
+[![Stars](https://img.shields.io/github/stars/BR1LL14N?label=Stars&style=for-the-badge&color=f6a623&logoColor=white)](https://github.com/BR1LL14N?tab=stars)
 
 </div>
 
@@ -84,15 +78,15 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BR1LL14N&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=12&amp;hide_border=false&amp;bg_color=1a1b27&amp;title_color=764ba2&amp;icon_color=667eea&amp;text_color=c9d1d9"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BR1LL14N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=1a1b27&title_color=764ba2&icon_color=667eea&text_color=c9d1d9)
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR1LL14N&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=1a1b27&amp;title_color=764ba2&amp;text_color=c9d1d9&amp;border_radius=12&amp;hide_border=false&amp;langs_count=8"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BR1LL14N&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=764ba2&text_color=c9d1d9&border_radius=12&hide_border=false&langs_count=8)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BR1LL14N&amp;theme=tokyonight&amp;hide_border=false&amp;background=1a1b27&amp;ring=764ba2&amp;fire=ff6b6b&amp;currStreakLabel=764ba2&amp;border_radius=12" alt="GitHub Streak Stats"/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BR1LL14N&theme=tokyonight&hide_border=false&background=1a1b27&ring=764ba2&fire=ff6b6b&currStreakLabel=764ba2&border_radius=12)
 
 </div>
 
@@ -101,7 +95,9 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BR1LL14N&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=false&amp;margin-w=6&amp;column=7&amp;row=1" alt="GitHub Trophies"/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BR1LL14N&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&row=1)
+
 </div>
 
 ---
@@ -109,7 +105,9 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BR1LL14N&amp;theme=tokyo-night&amp;bg_color=1a1b27&amp;color=764ba2&amp;line=667eea&amp;point=ff6b6b&amp;area=true&amp;hide_border=false&amp;radius=12" width="100%" alt="Activity Graph"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BR1LL14N&theme=tokyo-night&bg_color=1a1b27&color=764ba2&line=667eea&point=ff6b6b&area=true&hide_border=false&radius=12)
+
 </div>
 
 ---
@@ -143,14 +141,14 @@ fun_fact:  "I debug with console.log and I'm not ashamed 😄"
 <div align="center">
 
 ### 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:764ba2,100:667eea&amp;height=120&amp;section=footer" width="100%"/>
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 <div align="center">
   <sub>✨ Made with ❤️ by <a href="https://github.com/BR1LL14N">BR1LL14N</a> | Let's build something amazing together! ✨</sub>
