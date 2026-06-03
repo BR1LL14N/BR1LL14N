@@ -16,6 +16,61 @@
 
 ---
 
+## 👾 Siapa Gue?
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Halo! Gue Brillian, mahasiswa Teknik Informatika          ║
+║   yang udah keracunan dunia coding sejak pertama kali       ║
+║   ngetik "Hello World" dan ngerasa jadi dewa 😂             ║
+║                                                              ║
+║   Saat ini lagi sibuk ngulik Flutter buat bikin app        ║
+║   yang (semoga) berguna buat banyak orang. Gue percaya     ║
+║   kalau kode yang bagus itu kayak seni — butuh rasa,       ║
+║   logika, dan secangkir kopi yang kuat ☕                   ║
+║                                                              ║
+║   Fun fact: Gue debug lebih lama daripada nulis kode,      ║
+║   tapi tetep enjoy karena... itulah yang namanya           ║
+║   jadi developer sejati 🔥                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Lagi Ngapain Sekarang?
+```
+📱  Ngulik Flutter & Dart
+🏫  Kuliah Semester 6 di ITATS
+☁️  Belajar Cloud Architecture
+🤝  Open buat kolaborasi project keren
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Fakta Random Tentang Gue
+```
+🎮  Kadang main game, tapi malah
+     kepengen bikin game-nya sendiri
+🌙  Coding paling produktif jam 11 malem
+🐛  Bug itu bukan musuh, tapi "challenge"
+📚  Lagi explore dunia mobile dev
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Tech Stack & Skills
 
 <div align="center">
