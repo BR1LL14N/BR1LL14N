@@ -26,51 +26,42 @@
 
 ---
 
-## Siapa Gue?
+## Tentang Gue
 
-Halo! Gue Brillian, mahasiswa Teknik Informatika yang udah keracunan dunia coding sejak pertama kali ngetik **"Hello World"** dan ngerasa langsung jadi dewa.
-
-Saat ini gue lagi sibuk ngulik Flutter buat bikin aplikasi yang semoga aja bisa berguna buat banyak orang. Gue percaya kalau kode yang bagus itu kayak seni — butuh rasa, logika kuat, dan pastinya secangkir kopi hangat.
-
-```yaml
-# system_info.yaml
-identity:
-  name: M. Brillian Alif
-  role: Mobile & Full-Stack Developer
-  status: Informatics Student @ ITATS (Semester 6)
-
-focus_areas:
-  - Mobile Application Development (Flutter & React Native)
-  - Backend Systems & Cloud Architecture
-
-philosophy:
-  motto: "Kode yang bagus itu kayak seni — butuh rasa, logika, dan kopi."
-  fact: "Gue debug lebih lama dari nulis kode, tapi tetep enjoy!"
-```
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Lagi Ngapain Sekarang?
-```
-[*]  Ngulik Flutter & Dart
-[*]  Kuliah Semester 6 di ITATS
-[*]  Belajar Cloud Architecture
-[*]  Open buat kolaborasi project keren
-```
+**Halo! Gue Brillian** — mahasiswa Teknik Informatika yang keracunan dunia coding sejak pertama kali ngetik `Hello World` dan langsung ngerasa jadi dewa.
+
+Saat ini fokus ngulik **Flutter**, **React Native**, dan ekosistem backend modern. Gue percaya kode yang bagus itu kayak seni: butuh rasa, logika, dan secangkir kopi yang kuat.
+
+<br/>
+
+**Sekarang lagi:**
+
+<img src="https://img.shields.io/badge/Ngulik%20Flutter%20%26%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Kuliah%20Sem%206%20di%20ITATS-764ba2?style=flat-square&logo=graduation-cap&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Belajar%20Cloud%20Architecture-FF6C37?style=flat-square&logo=google-cloud&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Open%20Kolaborasi%20Project-28a745?style=flat-square&logo=handshake&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Fakta Random Tentang Gue
-```
-[*]  Kadang main game, tapi malah
-     kepengen bikin game-nya sendiri
-[*]  Coding paling produktif jam 11 malem
-[*]  Bug bukan musuh, tapi "challenge"
-[*]  Lagi explore dunia mobile dev
-```
+**Profil Singkat:**
+
+<img src="https://img.shields.io/badge/Nama-M.%20Brillian%20Alif-667eea?style=flat-square&logo=person&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Role-Mobile%20%26%20Full--Stack%20Dev-764ba2?style=flat-square&logo=code&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Kampus-ITATS%20Surabaya-f6a623?style=flat-square&logo=university&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Lokasi-Indonesia-e74c3c?style=flat-square&logo=location-pin&logoColor=white"/>
+
+<br/><br/>
+
+**Fun fact:**
+
+<img src="https://img.shields.io/badge/Coding%20Produktif-Jam%2011%20Malem-1a1a2e?style=flat-square&logo=moon&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Debug%20Mode-Always%20ON-e74c3c?style=flat-square&logo=bug&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Fuel-Kopi%20%2B%20Kode-6f4e37?style=flat-square&logo=buy-me-a-coffee&logoColor=white"/>
 
 </td>
 </tr>
